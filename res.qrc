@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>print.png</file>
+        <file>NHotel.qm</file>
+        <file>cancel.png</file>
+        <file>plus.png</file>
+    </qresource>
+</RCC>
